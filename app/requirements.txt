@@ -2,5 +2,3 @@ fastapi
 uvicorn
 pymongo
 dnspython
-email-validator
-python-dotenv
